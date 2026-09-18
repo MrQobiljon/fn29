@@ -14,3 +14,7 @@ for i in range(1, 100):
 
 
 print("End Dunyo")
+
+for i in range(1, 100):
+    if i % 2 == 3:
+        print(i)
